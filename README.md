@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.native-instruments.com/typo3temp/pics/img-welcome-hero-komplete-kontrol-product-page-00-welcome-1-02e59998f38c30bd2cff0250c0670dcf-m@2x.jpg" alt="Native Instruments Komplete Kontrol screenshot"/>
+  <img src="https://www.sweetwater.com/sweetcare/media/2017/12/Komplete-Kontrol-QuickStart.png" alt="Native Instruments Komplete Kontrol screenshot"/>
 </p>
 
 ---
